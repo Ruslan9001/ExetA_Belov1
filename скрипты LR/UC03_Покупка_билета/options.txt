@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Genesis\Documents\VuGen\Scripts\UC03_Покупка_билета
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\genesis\documents\vugen\scripts\uc03_покупка_билета\\logfile.log
+c:\users\genesis\documents\vugen\scripts\uc03_покупка_билета\\combined_UC03_Покупка_билета.c
+c:\users\genesis\documents\vugen\scripts\uc03_покупка_билета\\pre_cci.c

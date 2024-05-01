@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Genesis\Documents\VuGen\Scripts\UC04_Просмотр_списка_путевых_листов
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\genesis\documents\vugen\scripts\uc04_просмотр_списка_путевых_листов\\logfile.log
+c:\users\genesis\documents\vugen\scripts\uc04_просмотр_списка_путевых_листов\\combined_UC04_Просмотр_списка_путевых_листов.c
+c:\users\genesis\documents\vugen\scripts\uc04_просмотр_списка_путевых_листов\\pre_cci.c

@@ -1,0 +1,66 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: WebTours",
+                "infFile": "t1.inf",
+                "time": 1714568803491
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: WebTours_2",
+                "infFile": "t2.inf",
+                "time": 1714568803687
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: header.html",
+                "infFile": "t3.inf",
+                "time": 1714568803761
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t5.inf",
+                "time": 1714568803899
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t6.inf",
+                "time": 1714568804118
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Url: SignOff Button",
+                "infFile": "t7.inf",
+                "time": 1714568804299
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "open_home_page",
+                "rawStartTime": 1714568803546,
+                "rawEndTime": 1714568803906,
+                "thinkTime": 0.0,
+                "wastedTime": 0.019736528396606447
+            },
+            {
+                "transactionName": "login",
+                "rawStartTime": 1714568803918,
+                "rawEndTime": 1714568804122,
+                "thinkTime": 0.0,
+                "wastedTime": 0.006955623626708984
+            },
+            {
+                "transactionName": "signoff",
+                "rawStartTime": 1714568804138,
+                "rawEndTime": 1714568804310,
+                "thinkTime": 0.0,
+                "wastedTime": 0.004817962646484375
+            }
+        ]
+    }
+]

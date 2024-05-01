@@ -1,0 +1,5 @@
+[hosts]
+localhost=
+content-signature-2.cdn.mozilla.net=
+aus5.mozilla.org=
+spocs.getpocket.com=

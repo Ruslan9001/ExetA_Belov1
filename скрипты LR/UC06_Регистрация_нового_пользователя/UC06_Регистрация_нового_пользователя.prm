@@ -1,0 +1,12 @@
+[parameter:pRandomLatter]
+ColumnName="Col 1"
+Delimiter=","
+GenerateNewVal="EachIteration"
+OriginalValue=""
+ParamName="pRandomLatter"
+SelectNextRow="Sequential"
+StartRow="1"
+Table="pRandomLatter.dat"
+TableLocation="C:\Users\Genesis\Documents\VuGen\Scripts\Parameters"
+TotalRecords="26"
+Type="Table"

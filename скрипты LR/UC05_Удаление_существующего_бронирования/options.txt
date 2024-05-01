@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Genesis\Documents\VuGen\Scripts\UC05_Удаление_существующего_бронирования
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\genesis\documents\vugen\scripts\uc05_удаление_существующего_бронирования\\logfile.log
+c:\users\genesis\documents\vugen\scripts\uc05_удаление_существующего_бронирования\\combined_UC05_Удаление_существующего_бронирования.c
+c:\users\genesis\documents\vugen\scripts\uc05_удаление_существующего_бронирования\\pre_cci.c

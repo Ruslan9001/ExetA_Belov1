@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Genesis\Documents\VuGen\Scripts\UC02_Поиск_Билета_без_оплаты
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\genesis\documents\vugen\scripts\uc02_поиск_билета_без_оплаты\\logfile.log
+c:\users\genesis\documents\vugen\scripts\uc02_поиск_билета_без_оплаты\\combined_UC02_Поиск_Билета_без_оплаты.c
+c:\users\genesis\documents\vugen\scripts\uc02_поиск_билета_без_оплаты\\pre_cci.c

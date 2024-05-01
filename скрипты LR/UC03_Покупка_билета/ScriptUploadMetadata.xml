@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>UC03_Покупка_билета</ScriptName>
+  <Protocol>Web - HTTP/HTML</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.c" Filter="2" />
+    <FileEntry Name="Action.c" Filter="2" />
+    <FileEntry Name="vuser_end.c" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="UC03_Покупка_билета.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="UC03_Покупка_билета.prm" Filter="2" />
+    <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="WebSocketBuffer.h" Filter="2" />
+    <FileEntry Name="creditCard.dat" Filter="2" />
+    <FileEntry Name="expDate.dat" Filter="2" />
+    <FileEntry Name="pass1.dat" Filter="2" />
+    <FileEntry Name="address2.dat" Filter="2" />
+    <FileEntry Name="arrive(1).dat" Filter="2" />
+    <FileEntry Name="address1.dat" Filter="2" />
+    <FileEntry Name="login.dat" Filter="2" />
+    <FileEntry Name="numPassengers.dat" Filter="2" />
+    <FileEntry Name="password.dat" Filter="2" />
+    <FileEntry Name="depart.dat" Filter="2" />
+    <FileEntry Name="seatPref.dat" Filter="2" />
+    <FileEntry Name="seatType.dat" Filter="2" />
+    <FileEntry Name="combined_UC03_Покупка_билета.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="103605484440.idx" Filter="1" />
+    <FileEntry Name="103978395440.idx" Filter="1" />
+    <FileEntry Name="113894316440.idx" Filter="1" />
+    <FileEntry Name="131767076440.idx" Filter="1" />
+    <FileEntry Name="166190080440.idx" Filter="1" />
+    <FileEntry Name="233193821440.idx" Filter="1" />
+    <FileEntry Name="29389538440.idx" Filter="1" />
+    <FileEntry Name="30241666440.idx" Filter="1" />
+    <FileEntry Name="33262653440.idx" Filter="1" />
+    <FileEntry Name="34948018440.idx" Filter="1" />
+    <FileEntry Name="36191829440.idx" Filter="1" />
+    <FileEntry Name="38055788440.idx" Filter="1" />
+    <FileEntry Name="42500718440.idx" Filter="1" />
+    <FileEntry Name="54349876440.idx" Filter="1" />
+    <FileEntry Name="arrive.dat" Filter="1" />
+    <FileEntry Name="Bookmarks.xml" Filter="1" />
+    <FileEntry Name="Breakpoints.xml" Filter="1" />
+    <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="departDate.dat" Filter="1" />
+    <FileEntry Name="logfile.log" Filter="1" />
+    <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="options.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
+    <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
+    <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="TransactionsData.db" Filter="1" />
+    <FileEntry Name="UC03_Покупка_билета.c.pickle" Filter="1" />
+    <FileEntry Name="UC03_Покупка_билета.ci" Filter="1" />
+    <FileEntry Name="UC03_Покупка_билета.prm.bak" Filter="1" />
+    <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name="data\" Filter="1" />
+    <FileEntry Name="result1\" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>
